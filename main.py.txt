@@ -1,0 +1,5 @@
+id = ["PHP", "HTML", "CSS","JAVA","MLH","C"]
+for x in id:
+  print(x)
+  if x == "MLH":
+    break
